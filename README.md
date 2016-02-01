@@ -2,6 +2,6 @@
 
 First repo
 
-This is  tutorial
+This is a tutorial. Boom.
 
 --- done
